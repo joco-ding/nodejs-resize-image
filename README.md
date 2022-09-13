@@ -1,12 +1,12 @@
-# Node JS Upload Gambar
+# Node JS Resize File Gambar
 
-Mengupload gambar dengan express-fileupload
+Merubah ukuran gambar dengan modul sharp
 
 ## Cara Install
 
-git clone https://github.com/joco-ding/nodejs-upload
+git clone https://github.com/joco-ding/nodejs-resize-image
 
-cd nodejs-upload
+cd nodejs-resize-image
 
 npm install
 
@@ -17,8 +17,6 @@ https://demo-app-1.jocodev.id/
 ## Video Tutorial
 
 Video tutorial-nya bisa dilihat di 
-[youtube](https://youtu.be/Mw-5rEasZqs). 
+[youtube](https://youtu.be/ZeroH8E_o7E). 
 Jika ada yang ingin ditanyakan silakan tinggalkan di 
 kolom komentar pada video nya.
-# nodejs-resize-image
-# nodejs-resize-image
